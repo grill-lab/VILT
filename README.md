@@ -54,9 +54,9 @@ Correct citation:
 <h3 id="dataset">Benchmark Dataset</h3>
 <p> VILT provides 61 topics for video retrieval: </p> 
   <ul>
-    <li><a href="https://github.com/grill-lab/VILT/blob/main/topics/topics.txt">Topics</a> 
-    <li><a href="https://github.com/grill-lab/VILT/blob/main/qrels">Qrels</a></li>
-    <li><a href="https://github.com/grill-lab/VILT/blob/main/runs">Baseline runs</a></li>
+    <li><a href="https://github.com/grill-lab/VILT/blob/master/topics/topics.json">Topics</a> 
+    <li><a href="https://github.com/grill-lab/VILT/blob/master/qrels/document.qrels">Qrels</a></li>
+    <li><a href="https://github.com/grill-lab/VILT/tree/master/runs">Baseline runs</a></li>
   </ul> 
 
 Colab demo showing indexing and evaluation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vU7l6dkLRYItE289aLanO30zhXJUBfL-?usp=sharing)
@@ -96,7 +96,7 @@ Each topic contains the recipe title as well as query type. We differentiate bet
 <h3 id="doc-corpus">Video Corpus</h3>
 
 We use Common Crawl and [OAT](https://github.com/grill-lab/OAT) to curate a 2,133 video metadata corpus with focused instructional content for detailed Cooking skill instructions. 
-This can be downloaded here: [link](https://vilt-public-data.s3.amazonaws.com/video_metadata.jsonl)
+The corpus downloaded here: [link](https://vilt-public-data.s3.amazonaws.com/video_metadata.jsonl)
 
 The corpus is released in jsonline format with following fields for each video:
 
@@ -149,7 +149,7 @@ For VILT, we created 831 video document judgments (13.6 per topic):
 <!-- Evaluation -->
 <h3 id="evaluation">Evaluation</h3>
 
-We provide TREC-style query-relevance files: <a href="https://github.com/grill-lab/CODEC/blob/main/qrels/qrels.qrels">link</a>. 
+We provide TREC-style query-relevance files: <a href="https://github.com/grill-lab/VILT/blob/master/qrels/document.qrels">link</a>. 
 
 The official measures for the task include MRR, NDCG@10, MAP and P@1.
 
