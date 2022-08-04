@@ -54,7 +54,7 @@ Correct citation:
 <h3 id="dataset">Benchmark Dataset</h3>
 <p> VILT provides 61 topics for video retrieval: </p> 
   <ul>
-    <li><a href="https://github.com/grill-lab/VILT/blob/master/topics/topics.json">Topics</a> 
+    <li><a href="https://github.com/grill-lab/VILT/blob/master/topics/annotated_topics.json">Topics</a> 
     <li><a href="https://github.com/grill-lab/VILT/blob/master/qrels/document.qrels">Qrels</a></li>
     <li><a href="https://github.com/grill-lab/VILT/tree/master/runs">Baseline runs</a></li>
   </ul> 

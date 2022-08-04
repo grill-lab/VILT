@@ -1,0 +1,429 @@
+{
+    "custom+custom+b0d0e4c65b8a028dec6f8c50523f9768-r-2": {
+        "query": "1 mango, peeled and coarsely chopped",
+        "recipe_title": "Tropical Gazpacho",
+        "recipe_id": "custom+custom+b0d0e4c65b8a028dec6f8c50523f9768",
+        "section_type": "r",
+        "section_number": "2"
+    },
+    "custom+custom+b0d0e4c65b8a028dec6f8c50523f9768-r-3": {
+        "query": "1 1/4 cup chopped pineapple",
+        "recipe_title": "Tropical Gazpacho",
+        "recipe_id": "custom+custom+b0d0e4c65b8a028dec6f8c50523f9768",
+        "section_type": "r",
+        "section_number": "3"
+    },
+    "custom+custom+b0d0e4c65b8a028dec6f8c50523f9768-r-4": {
+        "query": "1 small cucumber, peeled, seeded and finely chopped",
+        "recipe_title": "Tropical Gazpacho",
+        "recipe_id": "custom+custom+b0d0e4c65b8a028dec6f8c50523f9768",
+        "section_type": "r",
+        "section_number": "4"
+    },
+    "custom+custom+b0d0e4c65b8a028dec6f8c50523f9768-r-5": {
+        "query": "1 medium red bell pepper, finely chopped",
+        "recipe_title": "Tropical Gazpacho",
+        "recipe_id": "custom+custom+b0d0e4c65b8a028dec6f8c50523f9768",
+        "section_type": "r",
+        "section_number": "5"
+    },
+    "custom+custom+b0d0e4c65b8a028dec6f8c50523f9768-r-6": {
+        "query": "1/4 medium red onion, finely chopped",
+        "recipe_title": "Tropical Gazpacho",
+        "recipe_id": "custom+custom+b0d0e4c65b8a028dec6f8c50523f9768",
+        "section_type": "r",
+        "section_number": "6"
+    },
+    "custom+custom+b0d0e4c65b8a028dec6f8c50523f9768-r-7": {
+        "query": "1/3 cup finely chopped fresh cilantro",
+        "recipe_title": "Tropical Gazpacho",
+        "recipe_id": "custom+custom+b0d0e4c65b8a028dec6f8c50523f9768",
+        "section_type": "r",
+        "section_number": "7"
+    },
+    "custom+custom+b0d0e4c65b8a028dec6f8c50523f9768-r-9": {
+        "query": "1/2 teaspoon lime zest",
+        "recipe_title": "Tropical Gazpacho",
+        "recipe_id": "custom+custom+b0d0e4c65b8a028dec6f8c50523f9768",
+        "section_type": "r",
+        "section_number": "9"
+    },
+    "custom+custom+b0d0e4c65b8a028dec6f8c50523f9768-s-0": {
+        "query": "Combine the tomato juice, pineapple juice, mango and pineapple in a blender and pulse 5 to 8 times, or until just combined; the mixture should be slightly chunky.&nbsp;",
+        "recipe_title": "Tropical Gazpacho",
+        "recipe_id": "custom+custom+b0d0e4c65b8a028dec6f8c50523f9768",
+        "section_type": "s",
+        "section_number": "0"
+    },
+    "custom+custom+cb9134641f2309763f07cc6a753cff2d-r-0": {
+        "query": "1 jalape\u00f1o pepper, stemmed, seeded and finely chopped",
+        "recipe_title": "Grilled Red Snapper with Strawberry and Avocado Salsa",
+        "recipe_id": "custom+custom+cb9134641f2309763f07cc6a753cff2d",
+        "section_type": "r",
+        "section_number": "0"
+    },
+    "custom+custom+cb9134641f2309763f07cc6a753cff2d-r-1": {
+        "query": "2 cups strawberries, hulled and finely chopped",
+        "recipe_title": "Grilled Red Snapper with Strawberry and Avocado Salsa",
+        "recipe_id": "custom+custom+cb9134641f2309763f07cc6a753cff2d",
+        "section_type": "r",
+        "section_number": "1"
+    },
+    "custom+custom+cb9134641f2309763f07cc6a753cff2d-r-2": {
+        "query": "1/4 cup finely chopped red onion",
+        "recipe_title": "Grilled Red Snapper with Strawberry and Avocado Salsa",
+        "recipe_id": "custom+custom+cb9134641f2309763f07cc6a753cff2d",
+        "section_type": "r",
+        "section_number": "2"
+    },
+    "custom+custom+cb9134641f2309763f07cc6a753cff2d-r-3": {
+        "query": "2 tablespoons finely chopped fresh cilantro",
+        "recipe_title": "Grilled Red Snapper with Strawberry and Avocado Salsa",
+        "recipe_id": "custom+custom+cb9134641f2309763f07cc6a753cff2d",
+        "section_type": "r",
+        "section_number": "3"
+    },
+    "custom+custom+cb9134641f2309763f07cc6a753cff2d-r-5": {
+        "query": "1 avocado, diced",
+        "recipe_title": "Grilled Red Snapper with Strawberry and Avocado Salsa",
+        "recipe_id": "custom+custom+cb9134641f2309763f07cc6a753cff2d",
+        "section_type": "r",
+        "section_number": "5"
+    },
+    "custom+custom+cb9134641f2309763f07cc6a753cff2d-r-8": {
+        "query": "1 1/2 tablespoon finely grated lime zest",
+        "recipe_title": "Grilled Red Snapper with Strawberry and Avocado Salsa",
+        "recipe_id": "custom+custom+cb9134641f2309763f07cc6a753cff2d",
+        "section_type": "r",
+        "section_number": "8"
+    },
+    "custom+custom+cb9134641f2309763f07cc6a753cff2d-s-2": {
+        "query": "Combine oil and zest in a small bowl then brush all over fillets; season with salt and pepper.&nbsp;",
+        "recipe_title": "Grilled Red Snapper with Strawberry and Avocado Salsa",
+        "recipe_id": "custom+custom+cb9134641f2309763f07cc6a753cff2d",
+        "section_type": "s",
+        "section_number": "2"
+    },
+    "custom+custom+cb9134641f2309763f07cc6a753cff2d-s-3": {
+        "query": "Grill fillets, skin side down and without flipping, until just cooked through and crisp around the edges, 8 to 10 minutes.&nbsp;",
+        "recipe_title": "Grilled Red Snapper with Strawberry and Avocado Salsa",
+        "recipe_id": "custom+custom+cb9134641f2309763f07cc6a753cff2d",
+        "section_type": "s",
+        "section_number": "3"
+    },
+    "custom+custom+f1e3ab88375bcaedea492bf1c4589ce1-r-0": {
+        "query": "12 ounces bittersweet chocolate chips or bittersweet chocolate, roughly chopped",
+        "recipe_title": "Flourless Chocolate Cake with Dark Chocolate Glaze",
+        "recipe_id": "custom+custom+f1e3ab88375bcaedea492bf1c4589ce1",
+        "section_type": "r",
+        "section_number": "0"
+    },
+    "custom+custom+f1e3ab88375bcaedea492bf1c4589ce1-r-1": {
+        "query": "1 cup (2 sticks) plus 3 tablespoons butter, roughly chopped",
+        "recipe_title": "Flourless Chocolate Cake with Dark Chocolate Glaze",
+        "recipe_id": "custom+custom+f1e3ab88375bcaedea492bf1c4589ce1",
+        "section_type": "r",
+        "section_number": "1"
+    },
+    "custom+custom+f1e3ab88375bcaedea492bf1c4589ce1-s-4": {
+        "query": "Stirring often, melt chocolate with butter until completely blended.",
+        "recipe_title": "Flourless Chocolate Cake with Dark Chocolate Glaze",
+        "recipe_id": "custom+custom+f1e3ab88375bcaedea492bf1c4589ce1",
+        "section_type": "s",
+        "section_number": "4"
+    },
+    "custom+custom+f1e3ab88375bcaedea492bf1c4589ce1-s-7": {
+        "query": "Add eggs one at a time, whisking well after each addition.",
+        "recipe_title": "Flourless Chocolate Cake with Dark Chocolate Glaze",
+        "recipe_id": "custom+custom+f1e3ab88375bcaedea492bf1c4589ce1",
+        "section_type": "s",
+        "section_number": "7"
+    },
+    "custom+custom+f1e3ab88375bcaedea492bf1c4589ce1-s-10": {
+        "query": "The cake should be just firm in the center when done.",
+        "recipe_title": "Flourless Chocolate Cake with Dark Chocolate Glaze",
+        "recipe_id": "custom+custom+f1e3ab88375bcaedea492bf1c4589ce1",
+        "section_type": "s",
+        "section_number": "10"
+    },
+    "custom+custom+f1e3ab88375bcaedea492bf1c4589ce1-s-11": {
+        "query": "Cool for 10 minutes, then invert onto a plate, removing sides of springform pan.",
+        "recipe_title": "Flourless Chocolate Cake with Dark Chocolate Glaze",
+        "recipe_id": "custom+custom+f1e3ab88375bcaedea492bf1c4589ce1",
+        "section_type": "s",
+        "section_number": "11"
+    },
+    "custom+custom+f1e3ab88375bcaedea492bf1c4589ce1-s-17": {
+        "query": "Using a spatula or the back of a spoon, very gently smooth glaze along the top and sides of the cake.",
+        "recipe_title": "Flourless Chocolate Cake with Dark Chocolate Glaze",
+        "recipe_id": "custom+custom+f1e3ab88375bcaedea492bf1c4589ce1",
+        "section_type": "s",
+        "section_number": "17"
+    },
+    "custom+custom+6f143e2dd5c1fb75112b2fbe201e5baa-r-0": {
+        "query": "1 pound frozen sea scallops, defrosted",
+        "recipe_title": "Scallops Caprese",
+        "recipe_id": "custom+custom+6f143e2dd5c1fb75112b2fbe201e5baa",
+        "section_type": "r",
+        "section_number": "0"
+    },
+    "custom+custom+6f143e2dd5c1fb75112b2fbe201e5baa-r-7": {
+        "query": "1 pound heirloom tomatoes, sliced 1/4-inch thick",
+        "recipe_title": "Scallops Caprese",
+        "recipe_id": "custom+custom+6f143e2dd5c1fb75112b2fbe201e5baa",
+        "section_type": "r",
+        "section_number": "7"
+    },
+    "custom+custom+6f143e2dd5c1fb75112b2fbe201e5baa-s-0": {
+        "query": "Slice scallops in half horizontally.",
+        "recipe_title": "Scallops Caprese",
+        "recipe_id": "custom+custom+6f143e2dd5c1fb75112b2fbe201e5baa",
+        "section_type": "s",
+        "section_number": "0"
+    },
+    "custom+custom+6f143e2dd5c1fb75112b2fbe201e5baa-s-2": {
+        "query": "Grill or broil until cooked through, turning once, about 1 minute each side.",
+        "recipe_title": "Scallops Caprese",
+        "recipe_id": "custom+custom+6f143e2dd5c1fb75112b2fbe201e5baa",
+        "section_type": "s",
+        "section_number": "2"
+    },
+    "custom+custom+f7fafb0338e6404c94dde374d1dfe302-r-0": {
+        "query": "1 bunch lacinato kale, thick stems removed and leaves thinly sliced",
+        "recipe_title": "Rainbow Kale Slaw",
+        "recipe_id": "custom+custom+f7fafb0338e6404c94dde374d1dfe302",
+        "section_type": "r",
+        "section_number": "0"
+    },
+    "custom+custom+f7fafb0338e6404c94dde374d1dfe302-r-1": {
+        "query": "4 cups shredded red cabbage (about 1 small head, quartered and cored)",
+        "recipe_title": "Rainbow Kale Slaw",
+        "recipe_id": "custom+custom+f7fafb0338e6404c94dde374d1dfe302",
+        "section_type": "r",
+        "section_number": "1"
+    },
+    "custom+custom+f7fafb0338e6404c94dde374d1dfe302-r-2": {
+        "query": "2 navel oranges or clementines, peeled and segmented",
+        "recipe_title": "Rainbow Kale Slaw",
+        "recipe_id": "custom+custom+f7fafb0338e6404c94dde374d1dfe302",
+        "section_type": "r",
+        "section_number": "2"
+    },
+    "custom+custom+f7fafb0338e6404c94dde374d1dfe302-r-3": {
+        "query": "1/2 small red onion, thinly sliced",
+        "recipe_title": "Rainbow Kale Slaw",
+        "recipe_id": "custom+custom+f7fafb0338e6404c94dde374d1dfe302",
+        "section_type": "r",
+        "section_number": "3"
+    },
+    "custom+custom+f7fafb0338e6404c94dde374d1dfe302-r-4": {
+        "query": "1 large red bell pepper, thinly sliced",
+        "recipe_title": "Rainbow Kale Slaw",
+        "recipe_id": "custom+custom+f7fafb0338e6404c94dde374d1dfe302",
+        "section_type": "r",
+        "section_number": "4"
+    },
+    "custom+custom+f7fafb0338e6404c94dde374d1dfe302-r-7": {
+        "query": "1/4 cup orange juice (from about 1 small orange)",
+        "recipe_title": "Rainbow Kale Slaw",
+        "recipe_id": "custom+custom+f7fafb0338e6404c94dde374d1dfe302",
+        "section_type": "r",
+        "section_number": "7"
+    },
+    "custom+custom+1a9cb3f308df57c7ac7b303f9fcc6e07-r-1": {
+        "query": "1 small organic yellow onion, finely diced",
+        "recipe_title": "Meatless Meatloaf",
+        "recipe_id": "custom+custom+1a9cb3f308df57c7ac7b303f9fcc6e07",
+        "section_type": "r",
+        "section_number": "1"
+    },
+    "custom+custom+1a9cb3f308df57c7ac7b303f9fcc6e07-r-2": {
+        "query": "1 clove garlic, finely chopped",
+        "recipe_title": "Meatless Meatloaf",
+        "recipe_id": "custom+custom+1a9cb3f308df57c7ac7b303f9fcc6e07",
+        "section_type": "r",
+        "section_number": "2"
+    },
+    "custom+custom+1a9cb3f308df57c7ac7b303f9fcc6e07-r-3": {
+        "query": "1/2 green bell pepper, minced",
+        "recipe_title": "Meatless Meatloaf",
+        "recipe_id": "custom+custom+1a9cb3f308df57c7ac7b303f9fcc6e07",
+        "section_type": "r",
+        "section_number": "3"
+    },
+    "custom+custom+1a9cb3f308df57c7ac7b303f9fcc6e07-r-8": {
+        "query": "1/2 cup cooked brown rice",
+        "recipe_title": "Meatless Meatloaf",
+        "recipe_id": "custom+custom+1a9cb3f308df57c7ac7b303f9fcc6e07",
+        "section_type": "r",
+        "section_number": "8"
+    },
+    "custom+custom+1a9cb3f308df57c7ac7b303f9fcc6e07-s-2": {
+        "query": "Add onion, garlic and pepper, and cook until onions are translucent and peppers are soft, about 7 minutes.",
+        "recipe_title": "Meatless Meatloaf",
+        "recipe_id": "custom+custom+1a9cb3f308df57c7ac7b303f9fcc6e07",
+        "section_type": "s",
+        "section_number": "2"
+    },
+    "custom+custom+7707eb0cf98c30f62e632fc87c738cbe-r-2": {
+        "query": "3 large potatoes, cubed",
+        "recipe_title": "Quick Fish Chowder",
+        "recipe_id": "custom+custom+7707eb0cf98c30f62e632fc87c738cbe",
+        "section_type": "r",
+        "section_number": "2"
+    },
+    "custom+custom+7707eb0cf98c30f62e632fc87c738cbe-r-3": {
+        "query": "2 carrots, cut into 1-inch chunks",
+        "recipe_title": "Quick Fish Chowder",
+        "recipe_id": "custom+custom+7707eb0cf98c30f62e632fc87c738cbe",
+        "section_type": "r",
+        "section_number": "3"
+    },
+    "custom+custom+7707eb0cf98c30f62e632fc87c738cbe-r-7": {
+        "query": "1 pound firm fish, such as cod or perch, skinned and cut into 1-inch pieces",
+        "recipe_title": "Quick Fish Chowder",
+        "recipe_id": "custom+custom+7707eb0cf98c30f62e632fc87c738cbe",
+        "section_type": "r",
+        "section_number": "7"
+    },
+    "custom+custom+7707eb0cf98c30f62e632fc87c738cbe-r-9": {
+        "query": "1/2 bunch lacinato kale, stemmed and cut into 2-inch pieces",
+        "recipe_title": "Quick Fish Chowder",
+        "recipe_id": "custom+custom+7707eb0cf98c30f62e632fc87c738cbe",
+        "section_type": "r",
+        "section_number": "9"
+    },
+    "custom+custom+7707eb0cf98c30f62e632fc87c738cbe-s-3": {
+        "query": "Simmer 20 minutes. For a creamier texture, pur&eacute;e part of the soup and return to the pot.",
+        "recipe_title": "Quick Fish Chowder",
+        "recipe_id": "custom+custom+7707eb0cf98c30f62e632fc87c738cbe",
+        "section_type": "s",
+        "section_number": "3"
+    },
+    "custom+custom+7707eb0cf98c30f62e632fc87c738cbe-s-4": {
+        "query": "Add fish and kale and simmer 10 minutes more, until fish is just cooked through.",
+        "recipe_title": "Quick Fish Chowder",
+        "recipe_id": "custom+custom+7707eb0cf98c30f62e632fc87c738cbe",
+        "section_type": "s",
+        "section_number": "4"
+    },
+    "custom+custom+c107431ba04875d8b7b5561c559769ab-r-2": {
+        "query": "1 bunch broccoli rabe, tough stems discarded, rinsed well",
+        "recipe_title": "Orecchiette with Italian Sausage and Broccoli Rabe",
+        "recipe_id": "custom+custom+c107431ba04875d8b7b5561c559769ab",
+        "section_type": "r",
+        "section_number": "2"
+    },
+    "custom+custom+c107431ba04875d8b7b5561c559769ab-r-3": {
+        "query": "2 cloves garlic, finely chopped",
+        "recipe_title": "Orecchiette with Italian Sausage and Broccoli Rabe",
+        "recipe_id": "custom+custom+c107431ba04875d8b7b5561c559769ab",
+        "section_type": "r",
+        "section_number": "3"
+    },
+    "custom+custom+c107431ba04875d8b7b5561c559769ab-r-7": {
+        "query": "Freshly grated parmesan cheese",
+        "recipe_title": "Orecchiette with Italian Sausage and Broccoli Rabe",
+        "recipe_id": "custom+custom+c107431ba04875d8b7b5561c559769ab",
+        "section_type": "r",
+        "section_number": "7"
+    },
+    "custom+custom+c107431ba04875d8b7b5561c559769ab-s-3": {
+        "query": "Add 3 tablespoons water and cook until sausage is cooked through and the water has evaporated, about 8 minutes more.",
+        "recipe_title": "Orecchiette with Italian Sausage and Broccoli Rabe",
+        "recipe_id": "custom+custom+c107431ba04875d8b7b5561c559769ab",
+        "section_type": "s",
+        "section_number": "3"
+    },
+    "custom+custom+c107431ba04875d8b7b5561c559769ab-s-7": {
+        "query": "Add broth and raisins and simmer until broccoli rabe is just tender, about 3 minutes. Add butter, stirring until melted and smooth.",
+        "recipe_title": "Orecchiette with Italian Sausage and Broccoli Rabe",
+        "recipe_id": "custom+custom+c107431ba04875d8b7b5561c559769ab",
+        "section_type": "s",
+        "section_number": "7"
+    },
+    "custom+custom+acb50df7b5b40bc1904965ce67cb8b63-r-4": {
+        "query": "1 small yellow onion, chopped",
+        "recipe_title": "Swiss Chard Stuffed with Goat Cheese and Rice",
+        "recipe_id": "custom+custom+acb50df7b5b40bc1904965ce67cb8b63",
+        "section_type": "r",
+        "section_number": "4"
+    },
+    "custom+custom+acb50df7b5b40bc1904965ce67cb8b63-r-5": {
+        "query": "1 clove garlic, chopped",
+        "recipe_title": "Swiss Chard Stuffed with Goat Cheese and Rice",
+        "recipe_id": "custom+custom+acb50df7b5b40bc1904965ce67cb8b63",
+        "section_type": "r",
+        "section_number": "5"
+    },
+    "custom+custom+acb50df7b5b40bc1904965ce67cb8b63-s-1": {
+        "query": "Blanch leaves, one at a time for about 20 to 30 seconds, just to soften. They should remain bright green with limp stems.",
+        "recipe_title": "Swiss Chard Stuffed with Goat Cheese and Rice",
+        "recipe_id": "custom+custom+acb50df7b5b40bc1904965ce67cb8b63",
+        "section_type": "s",
+        "section_number": "1"
+    },
+    "custom+custom+acb50df7b5b40bc1904965ce67cb8b63-s-12": {
+        "query": "To assemble, cut off thickest part of stem by cutting a \"v\" shape about one inch up from bottom of leaf.",
+        "recipe_title": "Swiss Chard Stuffed with Goat Cheese and Rice",
+        "recipe_id": "custom+custom+acb50df7b5b40bc1904965ce67cb8b63",
+        "section_type": "s",
+        "section_number": "12"
+    },
+    "custom+custom+acb50df7b5b40bc1904965ce67cb8b63-s-13": {
+        "query": "Turn leaf face side up and overlap bottom cut edges. Spoon a heaping tablespoon of filling near stem.",
+        "recipe_title": "Swiss Chard Stuffed with Goat Cheese and Rice",
+        "recipe_id": "custom+custom+acb50df7b5b40bc1904965ce67cb8b63",
+        "section_type": "s",
+        "section_number": "13"
+    },
+    "custom+custom+acb50df7b5b40bc1904965ce67cb8b63-s-14": {
+        "query": "Fold bottom sides in and roll to enclose the filling. Place open edge down in prepared baking pan. Repeat with remaining leaves and filling.",
+        "recipe_title": "Swiss Chard Stuffed with Goat Cheese and Rice",
+        "recipe_id": "custom+custom+acb50df7b5b40bc1904965ce67cb8b63",
+        "section_type": "s",
+        "section_number": "14"
+    },
+    "custom+custom+adb2da58e93adcb125aa255f0cef490c-r-0": {
+        "query": "6 ounces drained feta cheese, crumbled",
+        "recipe_title": "Greek Lamb Burgers",
+        "recipe_id": "custom+custom+adb2da58e93adcb125aa255f0cef490c",
+        "section_type": "r",
+        "section_number": "0"
+    },
+    "custom+custom+adb2da58e93adcb125aa255f0cef490c-r-1": {
+        "query": "1/3 cup kalamata olives, pitted and chopped",
+        "recipe_title": "Greek Lamb Burgers",
+        "recipe_id": "custom+custom+adb2da58e93adcb125aa255f0cef490c",
+        "section_type": "r",
+        "section_number": "1"
+    },
+    "custom+custom+adb2da58e93adcb125aa255f0cef490c-r-2": {
+        "query": "1/4 small red onion, chopped",
+        "recipe_title": "Greek Lamb Burgers",
+        "recipe_id": "custom+custom+adb2da58e93adcb125aa255f0cef490c",
+        "section_type": "r",
+        "section_number": "2"
+    },
+    "custom+custom+adb2da58e93adcb125aa255f0cef490c-r-3": {
+        "query": "3 tablespoons fresh oregano leaves, finely chopped",
+        "recipe_title": "Greek Lamb Burgers",
+        "recipe_id": "custom+custom+adb2da58e93adcb125aa255f0cef490c",
+        "section_type": "r",
+        "section_number": "3"
+    },
+    "custom+custom+adb2da58e93adcb125aa255f0cef490c-s-2": {
+        "query": "Form into 6 patties of even thickness.",
+        "recipe_title": "Greek Lamb Burgers",
+        "recipe_id": "custom+custom+adb2da58e93adcb125aa255f0cef490c",
+        "section_type": "s",
+        "section_number": "2"
+    },
+    "custom+custom+adb2da58e93adcb125aa255f0cef490c-s-5": {
+        "query": "Cook the burgers, flipping once, until cooked to your desired doneness, about 5 minutes per side for medium.",
+        "recipe_title": "Greek Lamb Burgers",
+        "recipe_id": "custom+custom+adb2da58e93adcb125aa255f0cef490c",
+        "section_type": "s",
+        "section_number": "5"
+    }
+}
